@@ -1,0 +1,7 @@
+public class FirstProgram{
+	public static void Login(){
+	
+	// Logic goes here
+
+	}
+}
