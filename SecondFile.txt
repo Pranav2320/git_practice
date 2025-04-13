@@ -1,0 +1,6 @@
+public class SecondFile{
+
+	public static void register(){
+	// logic goes here.
+}
+}
